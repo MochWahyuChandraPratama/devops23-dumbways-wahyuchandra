@@ -1,4 +1,12 @@
 # DAY2
+### Buat sebuah diagram sebuah jaringan komputer dengan 4 device dengan kondisi :
+- IP Class C : 192.168.11.xxx
+- CIDR Block : 192.168.11.0/30
+
+### Perbedaan Shell dan BASH
+- Shell adalah suatu proses interaksi antara pengguna dan sistem operasi melalui command line sifatnya terbatas. Tidak ada auto-completion dan tidak support Array.
+- BASH (Bourne Again Shell) adalah salah satu jenis shell yang ada di sistem operasi Linux dan Unix Modern. Digunakan untuk berbagai tugas, termasuk penulisan skrip, otomatisasi tugas, dan manajemen sistem. Mendukung auto-completion dan support Array.
+
 ### LINUX Command
 #### 1. ls
 Perintah untuk melihat file dan folder yang ada di penyimpanan. la juga dapat digunakan untuk melihat seluruh isi directori termasuk hidden. kombinasi dari perintah ls -la untuk melihat seluruh akses, isi directory, dan letaknya.
