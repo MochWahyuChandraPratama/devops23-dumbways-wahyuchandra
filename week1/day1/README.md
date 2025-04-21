@@ -8,6 +8,7 @@ Secara general devops terdiri dari kata dev dan ops. Dev adalah tim yang mengemb
 3. Continuous Deployment - Langkah terakhir setiap melakukan perubahan yang lolos uji otomatis akan langsung terdeploy ke produksi tanpa intervensi manual.
 4. Continuous Testing - Melakukan pengujian otomatis secara berkelanjutan untuk memastikan kualitas aplikasi sejak tahap awal.
 5. Continuous Monitoring - Mengawasi secara terus-menerus aplikasi yang telah dibuat untuk menjaga infrastruktur jika terjadi masalah dan memelihara sistem.
+6. Continuous Operations - Operasi berkelanjutan agar aplikasi tetap optimal, stabil, dan kinerja berjalan lancar. Tahap ini semua laporan bug dan keluhan user akan di proses untuk menyempurnakan aplikasi jangka panjang.
 
 ### Virtual Machine
 Ada berbagai virtual machine seperti : Multipass, VMware, VirtualBox, dan masih banyak lagi.
